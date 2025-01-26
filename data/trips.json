@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gale Reef",
+    "image": "reef1.jpg",
+    "description": "<p>Gale Reed is a beautiful place to visit</p>"
+  },
+  {
+    "name": "Dawson's Reef",
+    "image": "reef2.jpg",
+    "description": "<p>Dawson's Reed is a beautiful place to visit</p>"
+  },
+  {
+    "name": "Claire's Reef",
+    "image": "reef3.jpg",
+    "description": "<p>Claire's Reed is a beautiful place to visit</p>"
+  }
+]
